@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/ProSpring3/chp01_03/hello-world/target/
